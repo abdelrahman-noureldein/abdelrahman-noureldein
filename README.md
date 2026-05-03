@@ -45,7 +45,7 @@
 ### 🌍 Connect With Me
 
 [![Website](https://img.shields.io/badge/Website-nourdevs.com-blue?style=flat&logo=google-chrome&logoColor=white)](https://nourdevs.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman_Noureldin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-noureldin-19a93410b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman_Noureldin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-noureldein/)
 [![Email](https://img.shields.io/badge/Email-hello@nourdevs.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:info@nourdevs.com)
 
 ---
