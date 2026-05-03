@@ -28,6 +28,7 @@
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
@@ -38,15 +39,15 @@
 - 🤖 **AI Integration** — Building tools and prompts that leverage modern LLMs
 - 📦 **Digital Products** — Creating resources for developers and creators
 
-### 📌 Featured Project
+### 📌 Live Project
 
-🔗 **[NourDevs Platform](https://nourdevs.com)** — Live site offering AI prompts, digital products, and developer tools
+🔗 **[nourdevs.com](https://nourdevs.com)** — AI prompts, digital products, and developer tools
 
 ### 🌍 Connect With Me
 
 [![Website](https://img.shields.io/badge/Website-nourdevs.com-blue?style=flat&logo=google-chrome&logoColor=white)](https://nourdevs.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman_Noureldin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-noureldein/)
-[![Email](https://img.shields.io/badge/Email-hello@nourdevs.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:info@nourdevs.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman_Noureldein-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-noureldein/)
+[![Email](https://img.shields.io/badge/Email-info@nourdevs.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:info@nourdevs.com)
 
 ---
 
