@@ -7,7 +7,7 @@
 
 <p align="center">
   🌐 <a href="https://nourdevs.com">nourdevs.com</a> ·
-  📧 <a href="mailto:info@nourdevs.com">hello@nourdevs.com</a>
+  📧 <a href="mailto:info@nourdevs.com">info@nourdevs.com</a>
 </p>
 
 ---
